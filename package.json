@@ -20,5 +20,8 @@
   "homepage": "https://github.com/6-Spring/myblogtest#readme",
   "devDependencies": {
     "vuepress": "^1.9.8"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
   }
 }
