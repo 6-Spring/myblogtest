@@ -1,5 +1,5 @@
 module.exports = {
-    base: "/myblogtest/",
+    // base: "/myblogtest/",
     themeConfig: {
       logo: '/assets/img/logo.png',
       //  导航栏链接
